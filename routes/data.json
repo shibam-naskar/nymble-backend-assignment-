@@ -1,0 +1,62 @@
+[
+    {
+        "name":"Bhaag Milkha Rock",
+        "Artist":"Javed Wasir",
+        "id":1,
+        "img":"https://upload.wikimedia.org/wikipedia/en/4/42/Bhaag_Milkha_Bhaag_poster.jpg"
+    },
+    {
+        "name":"Ochi Ochi",
+        "Artist":"Arijit Singh",
+        "id":2,
+        "img":"https://c.saavncdn.com/471/Oonchi-Oonchi-Deewarein-From-Yaariyan-2-Hindi-2023-20230919183037-500x500.jpg"
+    },
+    {
+        "name":"Syndicate MAYA",
+        "Artist":"Bipul Chetri",
+        "id":3,
+        "img":"https://c.saavncdn.com/557/Maya-Nepali-2016-500x500.jpg"
+    },
+    {
+        "name":"Dilnawaz",
+        "Artist":"Local Train",
+        "id":4,
+        "img":"https://images.genius.com/dc267ae19731b9360fc9c06b8415d6d2.1000x1000x1.png"
+    },
+    {
+        "name":"Phir Le aya dil",
+        "Artist":"Arijit Singh",
+        "id":5,
+        "img":"https://upload.wikimedia.org/wikipedia/en/d/dd/Phir_Le_Aya_Dil_cover.jpg"
+    },
+    {
+        "name":"Aye Dil Hai Mushkil",
+        "Artist":"Arijit Singh",
+        "id":6,
+        "img":"https://m.media-amazon.com/images/M/MV5BN2MyNDUwYzQtODcxMS00NTk3LTk0NzktZjAwNzY4ODJiN2U3XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_UX200_CR0,0,200,200_AL_.jpg"
+    },
+    {
+        "name":"Gulon Main Rang",
+        "Artist":"Arijit Singh",
+        "id":7,
+        "img":"https://i1.sndcdn.com/artworks-000093287846-apyj81-large.jpg"
+    },
+    {
+        "name":"Shukran Allah",
+        "Artist":"Sonu Nigam",
+        "id":8,
+        "img":"https://img.wynk.in/unsafe/200x200/filters:no_upscale():strip_exif():format(jpg)/http://s3.ap-south-1.amazonaws.com/discovery-prod-arsenal/arsenal/artworks/64c6175552487e7367a5a6df/COLLECTION_5028331528654.jpg"
+    },
+    {
+        "name":"Main Hoon Na",
+        "Artist":"Sonu Nigam",
+        "id":9,
+        "img":"https://m.media-amazon.com/images/M/MV5BODVkNjU4NGMtODMwNi00ZWU4LWI3ZmYtNjgxNzIyNjY5MmI1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+    {
+        "name":"Kal Ho na ho",
+        "Artist":"Sonu Nigam",
+        "id":10,
+        "img":"https://upload.wikimedia.org/wikipedia/en/4/45/Kal_Ho_Naa_Ho.jpg"
+    }
+]
