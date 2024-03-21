@@ -101,6 +101,20 @@ authRouter.get("/addfav/:id", auth, async (req, res) => {
   res.json({ success: true });
 });
 
+authRouter.get("/remfav/:id", auth, async (req, res) => {
+  const user = await User.findById(req.user);
+  const { id } = req.params;
+  console.log(user)
+  var fav1 = user.fav;
+  for(let i=0;i<fav1.length;i++){
+    if(fav1[i]==id){
+      console.log(fav1.slice(0, i).concat(fav1.slice(i + 1)))
+      const usernew = await User.findOneAndUpdate({ _id: user._id }, { fav: fav1.slice(0, i).concat(fav1.slice(i + 1)) })
+    }
+  }
+  res.json({ success: true });
+});
+
 
 authRouter.get("/getfav", auth, async (req, res) => {
   const user = await User.findById(req.user);
